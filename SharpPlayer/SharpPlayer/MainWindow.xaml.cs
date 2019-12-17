@@ -23,6 +23,7 @@ namespace SharpPlayer
         public MainWindow()
         {
             InitializeComponent();
+           
         }
     }
 }
