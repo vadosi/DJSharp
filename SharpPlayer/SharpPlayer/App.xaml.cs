@@ -13,5 +13,6 @@ namespace SharpPlayer
     /// </summary>
     public partial class App : Application
     {
+        //test
     }
 }
